@@ -1,0 +1,11 @@
+{
+  "name": "zzk",
+  "version": "1.0.0",
+  "description": "this package is test build npm ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
